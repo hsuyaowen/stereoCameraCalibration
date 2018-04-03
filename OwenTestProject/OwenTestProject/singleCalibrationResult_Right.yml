@@ -1,0 +1,16 @@
+%YAML:1.0
+---
+calibrationDate: "Tue Apr  3 16:09:28 2018\n"
+calibration_resolution: [ 1280, 720 ]
+Right_intrinsicMatrix: !!opencv-matrix
+   rows: 3
+   cols: 3
+   dt: d
+   data: [ 6.1511984864041540e+02, 0., 6.5198802131601076e+02, 0.,
+       6.1506136214927460e+02, 3.4742060680665929e+02, 0., 0., 1. ]
+Right_distortionMatrix: !!opencv-matrix
+   rows: 1
+   cols: 5
+   dt: d
+   data: [ -3.0441809400001590e-01, 1.1731518558824504e-01, 0., 0.,
+       -2.6500754060593063e-02 ]
